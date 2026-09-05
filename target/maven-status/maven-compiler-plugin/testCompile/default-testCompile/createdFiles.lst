@@ -1,0 +1,10 @@
+com\apisentinel\detection\RateAbuseDetectorTest.class
+com\apisentinel\detection\InjectionDetectorTest.class
+com\apisentinel\detection\AuthenticationAbuseDetectorTest.class
+com\apisentinel\TrafficInterceptionTest.class
+com\apisentinel\PersistenceLayerTest.class
+com\apisentinel\ApiSentinelApplicationTests.class
+com\apisentinel\HealthControllerTest.class
+com\apisentinel\detection\ThreatDetectionEngineTest.class
+com\apisentinel\detection\SensitiveDataExposureDetectorTest.class
+com\apisentinel\detection\EnumerationDetectorTest.class
